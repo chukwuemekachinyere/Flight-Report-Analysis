@@ -1,5 +1,7 @@
 # Flight-Report-Analysis
 
+![images (1)](https://github.com/user-attachments/assets/acca9e23-7887-4a5b-90c3-01f5fc99aad5)
+
 # Data Overview
 
 In this project,the dataset contained data of Airports and passengers from 2022.Visualizations were created to reveal insights from the dataset,data visualizations that tell a story and highlight patterns in the dataset .key variables were selected to facilitate the analysis of travel trends.
