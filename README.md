@@ -37,3 +37,48 @@ Microsoft Excel
 
 6.Dataset had 98627 rows and 16 columns
 
+![function1](https://github.com/user-attachments/assets/55a587e7-2bec-4aab-ae77-64e9f00d6bf0)
+
+
+![function2](https://github.com/user-attachments/assets/c005a437-bbe0-4300-a4a0-cd2170078fee)
+
+# Schema
+The data columns include;
+
+1.PassengerID
+
+2.Firstname
+
+3.Lastname
+
+4.Gender
+
+5.Age
+
+6.Age-group (Added using IF funtion)
+
+7.Nationality
+
+8.Airport name
+
+9.Airport country code
+
+10.Country name 
+
+11.Airport continents
+
+12.Continents 
+
+13.Departure date 
+
+14.Arrival airport
+
+15.Pilot name 
+
+16.Flight status 
+
+17.Months
+
+# Data Visualization 
+
+![Main flight dashboard](https://github.com/user-attachments/assets/68a8549f-f47c-4660-8c6d-3526c4d554f7)
