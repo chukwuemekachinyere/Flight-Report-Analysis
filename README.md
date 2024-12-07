@@ -25,7 +25,7 @@ Microsoft Excel
 
 # Steps taken
 
-1.Dataset was downloaded from the web
+1.Dataset was gotten from a capstone project
 
 2.Cleaning and formatting the data to a table
 
@@ -82,6 +82,8 @@ The data columns include;
 # Data Visualization 
 
 ![Main flight dashboard](https://github.com/user-attachments/assets/68a8549f-f47c-4660-8c6d-3526c4d554f7)
+
+# Insights
 
 
 Interact with my dashboard here https://1drv.ms/x/c/4c4e81d8f0631446/EWWBtHEzgR1AodbDC8b4eG8BjztDDUBdwQgA0Fy4Vccdpg?e=lD1iWb
