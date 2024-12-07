@@ -85,7 +85,32 @@ The data columns include;
 
 # Insights
 
+1.it is was recorded that the highest travel frequency was August with a total of 8,545 passengers ,whereby february had the lowest with 7,654 passengers .
 
+2.North America had the largest share of flights with 32% as total with flights derived from 39 countries , whereby Africa and South America had the lowest share with 11% total 
+
+3.The most traveled passengers were from China,with a total of 18,312 followed by citizens from Indonesia 10,559 and Russia 5,693.
+
+4.By Age-group , passengers aged 50-71 were most traveled with a total of 22,043, next were from 31-50 age group with 21,862 and those 71+ with 21,790.
+
+5.August ,July,March and October had the highest number of On-time flights,each with 2800 flights arriving as scheduled.
+
+6.Highest number of delayed flights were recorded by january and may ,with delays peaking approximately at 2,900 in january.
+
+# Recommendations 
+
+1.Establish proficient staffs ,including air traffic controllers ,ground crews and customer service providers during these peak travel months .
+
+2.Inspect why February and April experience low on-time flights ,potential causes may be weather conditions ,runway control and maintenance or iefficient operaions .
+
+3.Provide passengers more flexible rebooking and cancelling policy during these months ,encouraging rescheduling before cancellation becomes obligatory .
+
+4.During July and August when travel frequency increases ,assign more check-in countries ,upgrae security screening,and provide additional support in handling larger passenger magnitude.
+
+5.working with air traffic control should be paramount to optimize flight paths and decrease air space congestion during busier days .
+
+6.Also conduct additional aircraft maintenance and readiness checks  before peak periods to prevent delays caused by technical issues .   
+  
 Interact with my dashboard here https://1drv.ms/x/c/4c4e81d8f0631446/EWWBtHEzgR1AodbDC8b4eG8BjztDDUBdwQgA0Fy4Vccdpg?e=lD1iWb
 
 
